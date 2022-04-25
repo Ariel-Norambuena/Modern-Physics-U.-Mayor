@@ -11,5 +11,7 @@ Primer Semestre 2022
 
 Carrera: Data Science
 
+Lenguaje: Python
+
 
 
